@@ -85,4 +85,4 @@ For loading the data and inserting it from the into the database we should execu
 * **create_tables.py**: python script with the process of creating of the tables
 * **etl.py**: python script with the process of inserting data from the data path into the database
 * **sql_queries**: text file in which all the queries executed in python scripts are located
-* **README.md**: basic information about the project
+* **README.md**: basic information about the project 
